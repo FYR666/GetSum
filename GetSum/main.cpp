@@ -6,5 +6,5 @@ int main()
 	scanf_s("%d%d/n", &a, &b);
 	c = b + a;
 	printf("½á¹ûÎª£º%d", c);
-	return 0;
+	return 1;
 }
